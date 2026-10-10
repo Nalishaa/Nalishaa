@@ -1,6 +1,6 @@
 
 ## 🌐 Socials:
-[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@NalishaShakya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nalishashakya@gmail.com) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nalishashakya@gmail.com) 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=1FEFF7&background=FFFFFF00&width=435&lines=Hi+there!)](https://git.io/typing-svg)
 
